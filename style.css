@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 18px;
+}
+h1{
+    width: 27%;
+    margin: 0 auto 0 auto;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.hacker{
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+    color: #66BFBF;
+    font-weight: bold;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 170px;
+    margin-bottom: 65px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 270px;
+    top: 100px;
+}
+.mountain{
+    margin-top: 50px;
+}
+span{
+    text-decoration: underline;
+}
+.profile-img{
+    width: 180px;
+    margin-top: 20px;
+}
+.computer{
+    width: 25%;
+    border-radius: 90px;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 100px;
+}
+.chillies{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: #66BFBF;
+    width: 52px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 35%;
+    text-align: left;
+    line-height: 1.5;
+}
+.profile{
+    width: 30%;
+    margin: auto;
+}
+.contact-me{
+    width: 38%;
+    margin: 40px auto 40px auto;
+}
+.btn{
+    background-image: linear-gradient(#34d9bd, #2bb8ac);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+.btn:hover{
+    background-image: linear-gradient(#3cfcd6, #34d9b8);
+}
+.btn-text{
+    margin-bottom: 60px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0px 20px 0px;
+    margin-top: 90px;
+    color: #DEEEEA;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    margin: 0pc 18px 0px 18px;
+}
+.footer-link:hover{
+    color: #E4F9F5;
+}
